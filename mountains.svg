@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 220" width="500" height="220" role="img" aria-label="Line drawing of mountains at sunrise">
+    <!-- Outer frame -->
+    <rect x="2" y="2" width="496" height="216" fill="#ffffff" stroke="#222222" stroke-width="2" />
+    
+    <!-- Sun -->
+    <circle cx="400" cy="55" r="20" fill="#ffffff" stroke="#222222" stroke-width="2" />
+    
+    <!-- Mountains -->
+    <!-- Left peak -->
+    <polyline points="0,180 130,70 240,165" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" />
+    
+    <!-- Middle peak -->
+    <polyline points="200,165 290,90 390,170" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" />
+    
+    <!-- Right peak -->
+    <polyline points="350,170 420,115 500,175" fill="none" stroke="#222222" stroke-width="2" stroke-linejoin="round" />
+</svg>
